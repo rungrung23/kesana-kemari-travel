@@ -1,0 +1,2 @@
+@import "tailwindcss";
+html{scroll-behavior:smooth}body{margin:0;background:#f7f5ef;color:#14251f}summary::-webkit-details-marker{display:none}::selection{background:#f2b84b;color:#123c35}
